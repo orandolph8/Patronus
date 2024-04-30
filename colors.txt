@@ -4,4 +4,5 @@ yellow
 green
 blue
 indigo
-violet
+
+I <3 the rainbow
